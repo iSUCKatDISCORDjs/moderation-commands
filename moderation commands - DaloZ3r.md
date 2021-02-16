@@ -1,7 +1,3 @@
----
-
-
----
 
 <h1 id="moderation-codes---daloz3r">Moderation Codes - DaloZ3r</h1>
 <h2 id="ban">Ban</h2>
